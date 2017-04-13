@@ -1,0 +1,8 @@
+{
+	"STT_URL" : "<your STT service URL>",
+    "STT_username" : "<your STT service username>",
+    "STT_password" : "<your STT service password>",
+    "PI_URL" : "<your PI service URL>",
+	"PI_username" : "<your PI service username>",
+	"PI_password" : "<your PI service password>"
+}
